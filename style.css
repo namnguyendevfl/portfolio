@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    background-color: lightgray;
+}
+header {
+    background-color: rgb(100, 97, 97);
+    text-align: center;
+    font-family: Lucida Calligraphy;
+    color: rgb(209, 202, 202);
+    
+}
+
+header > div {
+    padding: 10px;
+    margin-bottom: 20px;
+    
+}
+
+
+main {  
+   
+    display: flex;
+    justify-content: center;
+    
+}
+
+main > div {
+    width: 450px;
+    
+}
+
+.center {
+    text-align: center;
+}
+footer {
+    background-color: rgb(100, 97, 97);
+    text-align: center;
+    font-family: Lucida Calligraphy;
+    color: rgb(209, 202, 202);
+}
+footer > div {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.ruler {
+    border: 1px solid gray;
+}
