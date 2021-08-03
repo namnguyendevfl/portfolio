@@ -49,3 +49,9 @@ footer > div {
 .ruler {
     border: 1px solid gray;
 }
+
+a:link {
+    text-decoration: none;
+    color: rgb(2, 77, 2);
+    font-weight: bold;
+}
