@@ -52,6 +52,9 @@ footer > div {
 
 a:link {
     text-decoration: none;
-    color: rgb(2, 77, 2);
     font-weight: bold;
+}
+
+.link {
+    color: rgb(5, 80, 5);
 }
