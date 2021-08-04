@@ -39,11 +39,12 @@ footer {
     color: rgb(209, 202, 202);
 }
 footer > div {
-    height: 70px;
+    height: 55px;
     display: flex;
     justify-content: center;
     text-align: center;
     align-items: center;
+    font-size:small;
 }
 
 .ruler {
